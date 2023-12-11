@@ -1,5 +1,5 @@
 # ELEC576_final_project
-Music Genre Classification Using Custom-Built Convolutional Neural Network
+Project name: Music Genre Classification Using Custom-Built Convolutional Neural Network
 
 "music_genre_cnn_melody_spectrogram.ipynb" is the code for training the melody spectrograms using the custom-built CNN.
 
